@@ -1,2 +1,9 @@
 initial data
+<<<<<<< HEAD
 C4 data change
+||||||| eb0c791
+=======
+branch2 C10
+branch2 C11
+branch2 C12
+>>>>>>> branch1
